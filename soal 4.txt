@@ -1,0 +1,16 @@
+REPORT
+
+STORE "nilai" with any value
+
+READ "nilai"
+
+IF (nilai >= 80) THEN 
+    DISPLAY "A"
+ELSE IF(nilai >= 70  && <80 )
+    DISPLAY "B"
+ELSE IF(nilai >=60 && < 80 )
+    DISPLAY "C"
+ELSE IF(nilai >= 50 && < 60)
+    DISPLAY "D"
+ELSE
+    DISPLAY "E"
