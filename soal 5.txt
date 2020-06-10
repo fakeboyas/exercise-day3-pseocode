@@ -1,0 +1,16 @@
+LOOPING FOR 10 TIMES
+
+STORE "i" without value
+
+
+WHILE (for i <= 10 , i++)
+    
+    IF(a%2 == 0) then 
+        WRITE "i", "is an even number.""
+    ELSE
+        WRITE "i, "is an odd number.""
+    ENDWHILE
+
+DISPLAY "i" FROM EXPRESSION IF
+
+END
