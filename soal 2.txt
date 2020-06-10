@@ -1,0 +1,10 @@
+SQUARE AREA
+
+STORE "area" with any value
+STORE "result" without value
+
+CALCULATION "area" times "area"
+
+STORE "result" with value of CALCULATION
+
+DISPLAY "result"

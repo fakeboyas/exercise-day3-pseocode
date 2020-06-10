@@ -1,6 +1,7 @@
 REPORT
 
 STORE "nilai" with any value
+STORE "hasil" without value
 
 READ "nilai"
 
@@ -14,3 +15,8 @@ ELSE IF(nilai >= 50 && < 60)
     DISPLAY "D"
 ELSE
     DISPLAY "E"
+ENDIF
+
+DISPLAY "hasil" FROM EXPRESSION IF
+
+END

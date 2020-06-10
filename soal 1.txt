@@ -1,0 +1,12 @@
+MULTIPLICATION OF 3 NUMBERS
+
+STORE "a" with any value
+STORE "b" with any value
+STORE "c" with any value
+STORE "result" without value
+
+CALCUTALION "a" times "b" times "c"
+
+STORE "result" FROM value of CALCUTALION
+
+DISPLAY "result"
